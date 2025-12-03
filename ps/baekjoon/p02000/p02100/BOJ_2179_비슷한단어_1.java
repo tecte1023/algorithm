@@ -6,7 +6,7 @@
  * 시간 복잡도: O(n² * l) - l: 영단어의 길이
  */
 
-package ps.baekjoon.p02000.p02100;
+package baekjoon.p02000.p02100;
 
 import java.io.*;
 

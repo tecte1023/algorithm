@@ -8,7 +8,7 @@
  * 시간 복잡도: O(kCm * h * m) - k: 치킨집의 개수, h: 집의 개수
  */
 
-package ps.baekjoon.p15000.p15600;
+package baekjoon.p15000.p15600;
 
 import java.io.*;
 import java.util.*;

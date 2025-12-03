@@ -7,7 +7,7 @@
  * 시간 복잡도: O(n² * m²)
  */
 
-package ps.baekjoon.p13000.p13400;
+package baekjoon.p13000.p13400;
 
 import java.io.*;
 import java.util.*;

@@ -6,7 +6,7 @@
  * 시간 복잡도: O(n) - n: 문자열의 길이
  */
 
-package ps.baekjoon.p20000.p20300;
+package baekjoon.p20000.p20300;
 
 import java.io.*;
 

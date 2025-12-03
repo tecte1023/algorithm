@@ -7,7 +7,7 @@
  * 시간 복잡도: O(t * n^2) - t: 테스트 케이스, n: 학생 수
  */
 
-package ps.baekjoon.p10000.p10400;
+package baekjoon.p10000.p10400;
 
 import java.io.*;
 import java.util.*;

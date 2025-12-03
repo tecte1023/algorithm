@@ -4,7 +4,7 @@
  * 시간 복잡도: O(n) - n: 입력받은 수입의 개수
  */
 
-package ps.baekjoon.p14000.p14100;
+package baekjoon.p14000.p14100;
 
 import java.io.*;
 

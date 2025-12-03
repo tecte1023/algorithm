@@ -10,7 +10,7 @@
  * 시간 복잡도: O(2ⁿ * n)
  */
 
-package ps.baekjoon.p17000.p17400;
+package baekjoon.p17000.p17400;
 
 import java.io.*;
 import java.util.*;

@@ -10,7 +10,7 @@
  * 시간 복잡도: O(m * kᵐ)
  */
 
-package ps.baekjoon.p15000.p15600;
+package baekjoon.p15000.p15600;
 
 import java.io.*;
 import java.util.*;

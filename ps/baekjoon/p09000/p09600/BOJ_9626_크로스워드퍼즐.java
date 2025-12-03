@@ -6,7 +6,7 @@
  *  w: 최종적으로 완성된 전체 보드의 가로 길이
  */
 
-package ps.baekjoon.p09000.p09600;
+package baekjoon.p09000.p09600;
 
 import java.io.*;
 import java.util.*;

@@ -4,7 +4,7 @@
  * 시간 복잡도: O(n³) - n: 빙고판의 가로줄 또는 세로줄의 칸 수
  */
 
-package ps.baekjoon.p02000.p02500;
+package baekjoon.p02000.p02500;
 
 import java.io.*;
 import java.util.*;

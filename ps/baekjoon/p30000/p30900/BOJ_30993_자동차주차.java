@@ -5,7 +5,7 @@
  *  n: 자동차의 총 개수
  */
 
-package ps.baekjoon.p30000.p30900;
+package baekjoon.p30000.p30900;
 
 import java.io.*;
 import java.util.*;

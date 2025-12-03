@@ -9,7 +9,7 @@
  * 시간 복잡도: O(n)
  */
 
-package ps.baekjoon.p10000.p10800;
+package baekjoon.p10000.p10800;
 
 import java.io.*;
 

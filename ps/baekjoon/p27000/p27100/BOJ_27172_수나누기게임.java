@@ -6,7 +6,7 @@
  * 시간 복잡도: O(n log m) - m: 카드의 최대 수
  */
 
-package ps.baekjoon.p27000.p27100;
+package baekjoon.p27000.p27100;
 
 import java.io.*;
 import java.util.*;

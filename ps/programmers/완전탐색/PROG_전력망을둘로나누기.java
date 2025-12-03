@@ -7,7 +7,7 @@
  * 시간 복잡도: O(n)
  */
 
-package ps.programmers.완전탐색;
+package programmers.완전탐색;
 
 import java.util.*;
 

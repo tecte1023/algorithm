@@ -4,7 +4,7 @@
  * 시간 복잡도: O(t * n) - n: 개미의 수
  */
 
-package ps.baekjoon.p03000.p03000;
+package baekjoon.p03000.p03000;
 
 import java.io.*;
 

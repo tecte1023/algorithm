@@ -7,7 +7,7 @@
  * 시간 복잡도: O(v + e) - v: 등장한 사이트의 개수, e: 링크의 개수
  */
 
-package ps.baekjoon.p01000.p01100;
+package baekjoon.p01000.p01100;
 
 import java.io.*;
 import java.util.*;

@@ -4,7 +4,7 @@
  * 시간 복잡도: O(4ᵏ) - k: CCTV 개수
  */
 
-package ps.baekjoon.p15000.p15600;
+package baekjoon.p15000.p15600;
 
 import java.io.*;
 import java.util.*;

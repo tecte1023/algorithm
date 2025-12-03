@@ -6,7 +6,7 @@
  * 시간 복잡도: O(n log m) - m: 사탕 맛의 범위
  */
 
-package ps.baekjoon.p02000.p02200;
+package baekjoon.p02000.p02200;
 
 import java.io.*;
 import java.util.*;

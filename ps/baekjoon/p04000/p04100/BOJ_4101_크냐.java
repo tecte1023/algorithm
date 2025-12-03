@@ -4,7 +4,7 @@
  * 시간 복잡도: O(t) - t: 테스트 케이스 개수
  */
 
-package ps.baekjoon.p04000.p04100;
+package baekjoon.p04000.p04100;
 
 import java.io.*;
 import java.util.*;

@@ -8,7 +8,7 @@
  * 시간 복잡도: O(n log k) - 최악의 경우 k는 26
  */
 
-package ps.programmers.pccp모의고사1;
+package programmers.pccp모의고사1;
 
 import java.util.*;
 import java.util.stream.*;

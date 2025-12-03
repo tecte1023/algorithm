@@ -6,7 +6,7 @@
  * 시간 복잡도: O(9ⁿ) - n: 빈칸의 개수
  */
 
-package ps.baekjoon.p02000.p02200;
+package baekjoon.p02000.p02200;
 
 import java.io.*;
 import java.util.*;

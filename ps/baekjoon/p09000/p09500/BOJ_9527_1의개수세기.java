@@ -14,7 +14,7 @@
  * 시간 복잡도: O(log b)
  */
 
-package ps.baekjoon.p09000.p09500;
+package baekjoon.p09000.p09500;
 
 import java.io.*;
 import java.util.*;

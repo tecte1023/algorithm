@@ -8,7 +8,7 @@
  * 시간 복잡도: O(m * log₁₀ n) - n: 가능한 N 중에 최솟값, m: N의 자릿수
  */
 
-package ps.baekjoon.p01000.p01500;
+package baekjoon.p01000.p01500;
 
 import java.io.*;
 

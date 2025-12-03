@@ -8,7 +8,7 @@
  * 시간 복잡도: O(n * c) - c: 앱 비활성화 비용의 총 합
  */
 
-package ps.baekjoon.p07000.p07500;
+package baekjoon.p07000.p07500;
 
 import java.io.*;
 import java.util.*;

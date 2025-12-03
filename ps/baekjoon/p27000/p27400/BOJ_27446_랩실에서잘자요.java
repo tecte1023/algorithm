@@ -9,7 +9,7 @@
  *  k: 잃어버린 페이지의 개수
  */
 
-package ps.baekjoon.p27000.p27400;
+package baekjoon.p27000.p27400;
 
 import java.io.*;
 import java.util.*;

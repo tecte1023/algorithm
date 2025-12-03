@@ -4,7 +4,7 @@
  * 시간 복잡도: O(n * m) - m: 파일 이름의 길이
  */
 
-package ps.baekjoon.p01000.p01000;
+package baekjoon.p01000.p01000;
 
 import java.io.*;
 

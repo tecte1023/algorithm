@@ -4,7 +4,7 @@
  * 시간 복잡도: O((n + m) log (n + m))
  */
 
-package ps.baekjoon.p32000.p32700;
+package baekjoon.p32000.p32700;
 
 import java.io.*;
 import java.util.*;

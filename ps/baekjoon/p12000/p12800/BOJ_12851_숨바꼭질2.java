@@ -6,7 +6,7 @@
  * 시간 복잡도: O(v) - 0 <= v <= 100,000
  */
 
-package ps.baekjoon.p12000.p12800;
+package baekjoon.p12000.p12800;
 
 import java.io.*;
 import java.util.*;

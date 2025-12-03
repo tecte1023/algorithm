@@ -4,7 +4,7 @@
  * 시간 복잡도: O(m * l) - l: 새로 쓴 글과 관련된 키워드의 개수
  */
 
-package ps.baekjoon.p22000.p22200;
+package baekjoon.p22000.p22200;
 
 import java.io.*;
 import java.util.*;

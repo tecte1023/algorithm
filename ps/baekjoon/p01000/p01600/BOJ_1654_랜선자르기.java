@@ -7,7 +7,7 @@
  * 시간 복잡도: O(k * log l) - l: 랜선의 길이
  */
 
-package ps.baekjoon.p01000.p01600;
+package baekjoon.p01000.p01600;
 
 import java.io.*;
 import java.util.*;

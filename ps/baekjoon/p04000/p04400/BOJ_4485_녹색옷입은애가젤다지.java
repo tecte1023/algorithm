@@ -4,7 +4,7 @@
  * 시간 복잡도: O(n² log n)
  */
 
-package ps.baekjoon.p04000.p04400;
+package baekjoon.p04000.p04400;
 
 import java.io.*;
 import java.util.*;

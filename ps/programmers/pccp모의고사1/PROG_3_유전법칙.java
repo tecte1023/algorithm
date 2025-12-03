@@ -8,7 +8,7 @@
  * 시간 복잡도: O(q * n) - q: 쿼리의 수, n: 완두콩의 세대
  */
 
-package ps.programmers.pccp모의고사1;
+package programmers.pccp모의고사1;
 
 public class PROG_3_유전법칙 {
     // class Solution {

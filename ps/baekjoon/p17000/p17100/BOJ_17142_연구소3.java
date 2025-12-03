@@ -4,7 +4,7 @@
  * 시간 복잡도: O(2ᵛ * n²) - v: 연구소의 바이러스 개수
  */
 
-package ps.baekjoon.p17000.p17100;
+package baekjoon.p17000.p17100;
 
 import java.io.*;
 import java.util.*;

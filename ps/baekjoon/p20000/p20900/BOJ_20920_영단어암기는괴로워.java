@@ -4,7 +4,7 @@
  * 시간 복잡도: O(n log n)
  */
 
-package ps.baekjoon.p20000.p20900;
+package baekjoon.p20000.p20900;
 
 import java.io.*;
 import java.util.*;

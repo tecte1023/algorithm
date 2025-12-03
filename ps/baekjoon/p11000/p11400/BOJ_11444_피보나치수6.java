@@ -17,7 +17,7 @@
  * 시간 복잡도: O(log n)
  */
 
-package ps.baekjoon.p11000.p11400;
+package baekjoon.p11000.p11400;
 
 import java.io.*;
 

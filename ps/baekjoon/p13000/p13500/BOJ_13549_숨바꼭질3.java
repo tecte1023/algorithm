@@ -9,7 +9,7 @@
  * 시간 복잡도: O(m) - m: 이동 가능한 위치의 범위
  */
 
-package ps.baekjoon.p13000.p13500;
+package baekjoon.p13000.p13500;
 
 import java.io.*;
 import java.util.*;

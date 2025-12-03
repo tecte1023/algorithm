@@ -6,7 +6,7 @@
  *  d: 만들어진 수의 자릿수
  */
 
-package ps.baekjoon.p09000.p09500;
+package baekjoon.p09000.p09500;
 
 import java.io.*;
 import java.util.*;

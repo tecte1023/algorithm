@@ -6,7 +6,7 @@
  * 시간 복잡도: O(n) - n: 지시 사항의 수
  */
 
-package ps.baekjoon.p02000.p02300;
+package baekjoon.p02000.p02300;
 
 import java.io.*;
 import java.util.*;

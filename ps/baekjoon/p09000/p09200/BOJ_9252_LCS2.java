@@ -9,7 +9,7 @@
  * 시간 복잡도: O(x * y) - x: 첫 번째 문자열의 길이, y: 두 번째 문자열의 길이
  */
 
-package ps.baekjoon.p09000.p09200;
+package baekjoon.p09000.p09200;
 
 import java.io.*;
 

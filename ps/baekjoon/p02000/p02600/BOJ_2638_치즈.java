@@ -8,7 +8,7 @@
  * 시간 복잡도: O(t * n * m) - t: 모든 치즈가 녹는데 걸리는 시간
  */
 
-package ps.baekjoon.p02000.p02600;
+package baekjoon.p02000.p02600;
 
 import java.io.*;
 import java.util.*;

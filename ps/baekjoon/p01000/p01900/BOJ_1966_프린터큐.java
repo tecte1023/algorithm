@@ -10,7 +10,7 @@
  * 시간 복잡도: O(t × n²) - t: 테스트 케이스의 수
  */
 
-package ps.baekjoon.p01000.p01900;
+package baekjoon.p01000.p01900;
 
 import java.io.*;
 import java.util.*;

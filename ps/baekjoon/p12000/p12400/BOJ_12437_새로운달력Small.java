@@ -5,7 +5,7 @@
  *  m: 각 케이스의 총 월 개수
  */
 
-package ps.baekjoon.p12000.p12400;
+package baekjoon.p12000.p12400;
 
 import java.io.*;
 import java.util.*;

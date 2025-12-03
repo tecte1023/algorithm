@@ -10,7 +10,7 @@
  * 시간 복잡도: O(n² log n)
  */
 
-package ps.baekjoon.p07000.p07400;
+package baekjoon.p07000.p07400;
 
 import java.io.*;
 import java.util.*;

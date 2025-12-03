@@ -9,7 +9,7 @@
  * 시간 복잡도: O(n + m)
  */
 
-package ps.baekjoon.p22000.p22900;
+package baekjoon.p22000.p22900;
 
 import java.io.*;
 import java.util.*;

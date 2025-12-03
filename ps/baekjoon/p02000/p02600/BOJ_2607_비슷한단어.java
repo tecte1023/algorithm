@@ -4,7 +4,7 @@
  * 시간 복잡도: O(n * m) - n: 단어의 개수, m: 단어의 길이
  */
 
-package ps.baekjoon.p02000.p02600;
+package baekjoon.p02000.p02600;
 
 import java.io.*;
 

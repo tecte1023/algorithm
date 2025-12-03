@@ -8,7 +8,7 @@
  *  m: 폭발 문자열의 길이
  */
 
-package ps.baekjoon.p09000.p09900;
+package baekjoon.p09000.p09900;
 
 import java.io.*;
 import java.util.*;

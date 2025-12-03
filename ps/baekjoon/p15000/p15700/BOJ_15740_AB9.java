@@ -4,7 +4,7 @@
  * 시간 복잡도: O(n) - n: 수의 자릿수
  */
 
-package ps.baekjoon.p15000.p15700;
+package baekjoon.p15000.p15700;
 
 import java.io.*;
 import java.math.*;

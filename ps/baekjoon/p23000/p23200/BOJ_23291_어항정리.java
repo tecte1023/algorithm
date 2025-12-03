@@ -4,7 +4,7 @@
  * 시간 복잡도: O(m * n) - m: 어항 정리 횟수
  */
 
-package ps.baekjoon.p23000.p23200;
+package baekjoon.p23000.p23200;
 
 import java.io.*;
 import java.util.*;

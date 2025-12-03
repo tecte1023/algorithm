@@ -4,7 +4,7 @@
  * 시간 복잡도: O(log n * k²) - k: nᵖ의 자릿수
  */
 
-package ps.baekjoon.p06000.p06000;
+package baekjoon.p06000.p06000;
 
 import java.io.*;
 import java.math.*;

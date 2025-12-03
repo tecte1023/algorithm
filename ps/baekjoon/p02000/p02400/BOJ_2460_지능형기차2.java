@@ -4,7 +4,7 @@
  * 시간 복잡도: O(n) - n: 역의 개수
  */
 
-package ps.baekjoon.p02000.p02400;
+package baekjoon.p02000.p02400;
 
 import java.io.*;
 import java.util.*;

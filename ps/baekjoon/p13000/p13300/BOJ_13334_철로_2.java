@@ -6,7 +6,7 @@
  * 시간 복잡도: O(n log n)
  */
 
-package ps.baekjoon.p13000.p13300;
+package baekjoon.p13000.p13300;
 
 import java.io.*;
 import java.util.*;

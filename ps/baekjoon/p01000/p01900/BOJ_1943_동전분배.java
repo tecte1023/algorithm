@@ -8,7 +8,7 @@
  * 시간 복잡도: O(n * w * m) - w: 최대 금액 100,000의 반인 50,000, m: 동전의 개수
  */
 
-package ps.baekjoon.p01000.p01900;
+package baekjoon.p01000.p01900;
 
 import java.io.*;
 import java.util.*;

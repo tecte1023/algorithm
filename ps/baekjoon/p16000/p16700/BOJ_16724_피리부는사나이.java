@@ -7,7 +7,7 @@
  * 시간 복잡도: O(n * m)
  */
 
-package ps.baekjoon.p16000.p16700;
+package baekjoon.p16000.p16700;
 
 import java.io.*;
 import java.util.*;

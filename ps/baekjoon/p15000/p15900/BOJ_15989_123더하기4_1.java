@@ -13,7 +13,7 @@
  * 시간 복잡도: O(max(n)) - max(n): 테스트 케이스에서 주어진 n의 값 중 가장 큰 값.
  */
 
-package ps.baekjoon.p15000.p15900;
+package baekjoon.p15000.p15900;
 
 import java.io.*;
 

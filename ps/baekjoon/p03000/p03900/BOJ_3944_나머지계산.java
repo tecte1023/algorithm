@@ -9,7 +9,7 @@
  *  l: 입력된 수 D의 자릿수
  */
 
-package ps.baekjoon.p03000.p03900;
+package baekjoon.p03000.p03900;
 
 import java.io.*;
 import java.util.*;

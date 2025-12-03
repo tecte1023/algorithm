@@ -6,7 +6,7 @@
  * 시간 복잡도: O(n²)
  */
 
-package ps.baekjoon.p02000.p02100;
+package baekjoon.p02000.p02100;
 
 import java.io.*;
 import java.util.*;

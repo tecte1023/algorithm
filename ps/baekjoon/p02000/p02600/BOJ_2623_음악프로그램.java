@@ -7,7 +7,7 @@
  *  e: 보조 PD들이 제안 순서의 총 수
  */
 
-package ps.baekjoon.p02000.p02600;
+package baekjoon.p02000.p02600;
 
 import java.io.*;
 import java.util.*;

@@ -4,7 +4,7 @@
  * 시간 복잡도: O(n) - n: 입력받은 줄 개수
  */
 
-package ps.baekjoon.p05000.p05000;
+package baekjoon.p05000.p05000;
 
 import java.io.*;
 import java.util.*;

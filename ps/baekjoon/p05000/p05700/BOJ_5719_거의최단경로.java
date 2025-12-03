@@ -8,7 +8,7 @@
  * 시간 복잡도: O(t * (n + m) log n) - t: 테스트 케이스 수
  */
 
-package ps.baekjoon.p05000.p05700;
+package baekjoon.p05000.p05700;
 
 import java.io.*;
 import java.util.*;

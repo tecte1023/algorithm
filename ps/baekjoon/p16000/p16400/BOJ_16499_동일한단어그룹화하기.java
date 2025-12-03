@@ -6,7 +6,7 @@
  * 시간 복잡도: O(n * m log m) - m: 단어의 길이
  */
 
-package ps.baekjoon.p16000.p16400;
+package baekjoon.p16000.p16400;
 
 import java.io.*;
 import java.util.*;

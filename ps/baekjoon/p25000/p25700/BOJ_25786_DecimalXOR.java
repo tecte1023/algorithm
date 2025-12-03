@@ -4,7 +4,7 @@
  * 시간 복잡도: O(n) - n: 두 수 중에서 더 큰 수의 자릿수
  */
 
-package ps.baekjoon.p25000.p25700;
+package baekjoon.p25000.p25700;
 
 import java.io.*;
 

@@ -4,7 +4,7 @@
  * 시간 복잡도: O(1)
  */
 
-package ps.baekjoon.p06000.p06800;
+package baekjoon.p06000.p06800;
 
 import java.io.*;
 

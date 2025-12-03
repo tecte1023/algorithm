@@ -8,7 +8,7 @@
  * 시간 복잡도: O(log d * n³)
  */
 
-package ps.baekjoon.p17000.p17400;
+package baekjoon.p17000.p17400;
 
 import java.io.*;
 import java.util.*;

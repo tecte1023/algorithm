@@ -4,7 +4,7 @@
  * 시간 복잡도: O(r * c)
  */
 
-package ps.baekjoon.p04000.p04100;
+package baekjoon.p04000.p04100;
 
 import java.io.*;
 import java.util.*;

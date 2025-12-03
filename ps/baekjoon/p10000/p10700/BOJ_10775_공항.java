@@ -8,7 +8,7 @@
  * 시간 복잡도: O(g + p)
  */
 
-package ps.baekjoon.p10000.p10700;
+package baekjoon.p10000.p10700;
 
 import java.io.*;
 

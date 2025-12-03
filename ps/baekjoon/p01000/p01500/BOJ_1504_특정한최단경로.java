@@ -7,7 +7,7 @@
  * 시간 복잡도: O(e log v) - e: 간선의 수, v: 정점의 수
  */
 
-package ps.baekjoon.p01000.p01500;
+package baekjoon.p01000.p01500;
 
 import java.io.*;
 import java.util.*;

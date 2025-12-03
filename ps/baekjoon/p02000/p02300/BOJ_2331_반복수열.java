@@ -9,7 +9,7 @@
  *  k: 반복이 발생하기 전까지 생성되는 수열의 길이.
  */
 
-package ps.baekjoon.p02000.p02300;
+package baekjoon.p02000.p02300;
 
 import java.io.*;
 import java.util.*;

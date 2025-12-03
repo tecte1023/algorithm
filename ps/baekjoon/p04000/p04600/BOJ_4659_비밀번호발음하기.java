@@ -4,7 +4,7 @@
  * 시간 복잡도: O(t * n) - t: 테스트 케이스 수, n: 패스워드 길이
  */
 
-package ps.baekjoon.p04000.p04600;
+package baekjoon.p04000.p04600;
 
 import java.io.*;
 

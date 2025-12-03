@@ -7,7 +7,7 @@
  * 시간 복잡도: O(nᵐ) - n: 학생 수, m: 종목 수
  */
 
-package ps.programmers.pccp모의고사1;
+package programmers.pccp모의고사1;
 
 public class PROG_2_체육대회 {
     // class Solution {

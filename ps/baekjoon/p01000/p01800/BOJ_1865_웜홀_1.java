@@ -7,7 +7,7 @@
  * 시간 복잡도: O(n * (m + w))
  */
 
-package ps.baekjoon.p01000.p01800;
+package baekjoon.p01000.p01800;
 
 import java.io.*;
 import java.util.*;

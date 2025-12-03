@@ -4,7 +4,7 @@
  * 시간 복잡도: O(t * n) - t: 테스트 케이스 수, n: 숫자의 자릿수
  */
 
-package ps.baekjoon.p01000.p01200;
+package baekjoon.p01000.p01200;
 
 import java.io.*;
 

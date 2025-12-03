@@ -9,7 +9,7 @@
  * 시간 복잡도: O(n²)
  */
 
-package ps.leetcode;
+package leetcode;
 
 import java.util.*;
 

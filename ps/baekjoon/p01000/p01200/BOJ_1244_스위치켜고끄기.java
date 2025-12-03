@@ -4,7 +4,7 @@
  * 시간 복잡도: O(n * m) - n: 스위치 개수, m: 학생 수
  */
 
-package ps.baekjoon.p01000.p01200;
+package baekjoon.p01000.p01200;
 
 import java.io.*;
 import java.util.*;

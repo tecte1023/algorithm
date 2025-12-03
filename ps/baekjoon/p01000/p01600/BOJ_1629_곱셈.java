@@ -4,7 +4,7 @@
  * 시간 복잡도: O(l² log b) - l: 숫자의 자릿수
  */
 
-package ps.baekjoon.p01000.p01600;
+package baekjoon.p01000.p01600;
 
 import java.io.*;
 import java.math.*;

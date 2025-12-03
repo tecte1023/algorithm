@@ -5,7 +5,7 @@
  * 시간 복잡도: O(n + m)
  */
 
-package ps.baekjoon.p17000.p17200;
+package baekjoon.p17000.p17200;
 
 import java.io.*;
 import java.util.*;

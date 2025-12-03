@@ -8,7 +8,7 @@
  * 시간 복잡도: O(m log m)
  */
 
-package ps.baekjoon.p16000.p16500;
+package baekjoon.p16000.p16500;
 
 import java.io.*;
 import java.util.*;

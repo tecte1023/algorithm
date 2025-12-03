@@ -5,7 +5,7 @@
  *  l: 입력된 수의 자릿수
  */
 
-package ps.baekjoon.p04000.p04500;
+package baekjoon.p04000.p04500;
 
 import java.io.*;
 

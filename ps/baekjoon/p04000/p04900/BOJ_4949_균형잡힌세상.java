@@ -4,7 +4,7 @@
  * 시간 복잡도: O(t * l) - t: 입력 줄 수, l: 한 줄의 문자열 길이
  */
 
-package ps.baekjoon.p04000.p04900;
+package baekjoon.p04000.p04900;
 
 import java.io.*;
 import java.util.*;

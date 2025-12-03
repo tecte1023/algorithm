@@ -7,7 +7,7 @@
  * 시간 복잡도: O(1) - 상태 공간이 20³으로 고정되어 있어 상수 시간에 해결 가능
  */
 
-package ps.baekjoon.p09000.p09100;
+package baekjoon.p09000.p09100;
 
 import java.io.*;
 import java.util.*;

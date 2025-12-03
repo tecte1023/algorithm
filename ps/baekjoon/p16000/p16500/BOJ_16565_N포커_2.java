@@ -7,7 +7,7 @@
  * 시간 복잡도: O(c²) - c: 트럼프 카드의 개수
  */
 
-package ps.baekjoon.p16000.p16500;
+package baekjoon.p16000.p16500;
 
 import java.io.*;
 

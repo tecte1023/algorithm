@@ -7,7 +7,7 @@
  * 시간 복잡도: O(2^(n²))
  */
 
-package ps.baekjoon.p33000.p33900;
+package baekjoon.p33000.p33900;
 
 import java.io.*;
 import java.util.*;

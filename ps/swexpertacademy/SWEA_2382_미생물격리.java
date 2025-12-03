@@ -10,7 +10,7 @@
  * 시간 복잡도: O(t * m * k log k)
  */
 
-package ps.swexpertacademy;
+package swexpertacademy;
 
 import java.io.*;
 import java.util.*;

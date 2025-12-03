@@ -5,7 +5,7 @@
  *  l: 입력된 전체 문자열의 길이
  */
 
-package ps.baekjoon.p04000.p04400;
+package baekjoon.p04000.p04400;
 
 import java.io.*;
 

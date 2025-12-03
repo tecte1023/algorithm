@@ -8,7 +8,7 @@
  * 시간 복잡도: O(n + t)
  */
 
-package ps.baekjoon.p01000.p01000;
+package baekjoon.p01000.p01000;
 
 import java.io.*;
 

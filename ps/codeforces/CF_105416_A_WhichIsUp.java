@@ -4,7 +4,7 @@
  * 시간 복잡도: 시간 복잡도 O(n)
  */
 
-package ps.codeforces;
+package codeforces;
 
 import java.io.*;
 

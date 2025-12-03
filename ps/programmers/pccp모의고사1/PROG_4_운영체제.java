@@ -11,7 +11,7 @@
  * 시간 복잡도: O(n log n) - n: 프로그램 수
  */
 
-package ps.programmers.pccp모의고사1;
+package programmers.pccp모의고사1;
 
 import java.util.*;
 

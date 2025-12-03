@@ -12,7 +12,7 @@
  * 시간 복잡도: O(t * n * m)
  */
 
-package ps.baekjoon.p02000.p02700;
+package baekjoon.p02000.p02700;
 
 import java.io.*;
 
