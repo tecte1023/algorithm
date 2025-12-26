@@ -1,9 +1,8 @@
 /*
  * 문제: 백준 1978번 - 소수 찾기 (https://www.acmicpc.net/problem/1978)
- * 문제 풀이
  *
- *
- * 시간 복잡도:
+ * 시간 복잡도: O(n * √m)
+ *  m: 수의 최댓값
  */
 
 package baekjoon.p01000.p01900;
