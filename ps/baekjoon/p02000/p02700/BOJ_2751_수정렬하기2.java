@@ -1,7 +1,7 @@
 /*
  * 문제: 백준 2751번 - 수 정렬하기 2 (https://www.acmicpc.net/problem/2751)
  *
- * 시간 복잡도: O(n)
+ * 시간 복잡도: O(n log n)
  */
 
 package baekjoon.p02000.p02700;
